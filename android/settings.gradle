@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = "ExamenMovil"
+
+// Usa el settings.gradle del plugin
+apply from: file("../node_modules/react-native-gradle-plugin/settings.gradle")
+
+include(":app")
