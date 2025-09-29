@@ -34,4 +34,6 @@ android {
 dependencies {
     implementation "com.facebook.react:react-android:0.74.5"
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.9.22"
+    
 }
+apply plugin: 'com.google.gms.google-services'
