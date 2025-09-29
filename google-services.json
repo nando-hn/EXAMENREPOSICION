@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731744146751",
+    "project_id": "examenreposicion",
+    "storage_bucket": "examenreposicion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731744146751:android:d38dcd29b07d64dc162f8a",
+        "android_client_info": {
+          "package_name": "com.examenreposicion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQbBZ65hUwEVKXTeo1a9VerkTIRhA_2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
